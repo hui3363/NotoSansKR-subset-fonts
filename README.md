@@ -21,4 +21,4 @@ subset font 용량 : 265KB
 # 문자집합
 - [KS X 1001 표준의 2,350자](https://raw.githubusercontent.com/nacyot/korean_subset_glyphs/master/ksx1001_korean_2350.txt)
 - KS X 1001의 특수문자, 한글 자모, 알파벳, 숫자, 구두점, KS 코드 완성형 한글의 추가 글자 제안’에서 추가 제안한 224자  
-=> [전체글자 목록](https://raw.githubusercontent.com/nacyot/korean_subset_glyphs/master/glyphs.txt)
+=> [전체글자 목록](https://github.com/hui3363/NotoSansKR-subset-fonts/blob/main/glyphs.txt)
